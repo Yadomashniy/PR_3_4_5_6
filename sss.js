@@ -1,4 +1,4 @@
-const openBtn = document.querySelector(".header_button_open");
+const openBtn = document.querySelector(".header__button-open");
 const closeBtn = document.querySelector(".close");
 const drawer = document.querySelector(".drawer");
 const overflow = document.querySelector(".overflow");

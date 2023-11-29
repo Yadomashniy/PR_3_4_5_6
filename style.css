@@ -231,7 +231,6 @@
   @media (min-width: 340px) {
     body{
       background-color: #ffffff;
-      max-width: 340px;
   }
   
   .menu{ 
